@@ -1,0 +1,22 @@
+title:Sample Mod
+
+description:A simple demo of how to mod Poly Universe.
+
+credits:Music loop from DRFX - https://freesound.org/people/DRFX/sounds/338986/
+
+legal:This mod uses free content from around the internet. Individual assets belong to their respective creators.
+
+**************************************
+
+This is the very first pass at modding, so the only thing you can mod is the game's music. Soon you'll also be able to edit 3D models, sound effects, localization, and gameplay data as well.
+
+To replace the game's music, place any of the following files in this directory:
+
+Music_Space.wav
+Music_Combat.wav
+Music_Spring.wav
+Music_Summer.wav
+Music_Fall.wav
+Music_Winter.wav
+
+(Capitalization matters! Make sure your wav files have names like "Music_Spring.wav", not "music_spring.wav")
