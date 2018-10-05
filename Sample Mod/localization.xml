@@ -1,0 +1,1768 @@
+<?xml version="1.0" encoding="utf-16"?>
+<!--This file translates the entire game into the fictional language of Lorem Ipsum. -->
+<localization>
+  <string key='NEW_GAME'>
+    <!--English text: New Game-->
+    <lorem>Lorem ip</lorem>
+  </string>
+  <string key='MODS'>
+    <!--English text: Mods-->
+    <lorem>Lore</lorem>
+  </string>
+  <string key='INACTIVE'>
+    <!--English text: Inactive-->
+    <lorem>Lorem ip</lorem>
+  </string>
+  <string key='BUILD_ROAD_TOOLTIP'>
+    <!--English text: Click and drag to build roads-->
+    <lorem>Lorem ipsum dolor sit amet, c</lorem>
+  </string>
+  <string key='LAST_YEAR'>
+    <!--English text: Last Year:-->
+    <lorem>Lorem ipsu</lorem>
+  </string>
+  <string key='GETTING_RID_OF'>
+    <!--English text: Getting rid of-->
+    <lorem>Lorem ipsum do</lorem>
+  </string>
+  <string key='NOTHING'>
+    <!--English text: Nothing-->
+    <lorem>Lorem i</lorem>
+  </string>
+  <string key='DEMOLISH'>
+    <!--English text: Demolish-->
+    <lorem>Lorem ip</lorem>
+  </string>
+  <string key='EXPORTED'>
+    <!--English text: Exported-->
+    <lorem>Lorem ip</lorem>
+  </string>
+  <string key='OTHER_SOURCES'>
+    <!--English text: Other Sources-->
+    <lorem>Lorem ipsum d</lorem>
+  </string>
+  <string key='HARVESTED'>
+    <!--English text: Harvested-->
+    <lorem>Lorem ips</lorem>
+  </string>
+  <string key='IMPORTED'>
+    <!--English text: Imported-->
+    <lorem>Lorem ip</lorem>
+  </string>
+  <string key='SAVE_ERROR_APOLOGY'>
+    <!--English text: Really sorry about this, but we couldn't save. An error log is written at: -->
+    <lorem>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tem</lorem>
+  </string>
+  <string key='BUILD_BRIDGE_TOOLTIP'>
+    <!--English text: Click and drag between two points on shore to build a bridge-->
+    <lorem>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed</lorem>
+  </string>
+  <string key='FIND_EXAMPLE_MODS'>
+    <!--English text: Find example mods at: -->
+    <lorem>Lorem ipsum dolor sit </lorem>
+  </string>
+  <string key='YOUR_MOD_DIRECTORY'>
+    <!--English text: Your mod directory is: -->
+    <lorem>Lorem ipsum dolor sit a</lorem>
+  </string>
+  <string key='TIME_UNTIL_CHILD_GROWS'>
+    <!--English text: Time until next child grows up:-->
+    <lorem>Lorem ipsum dolor sit amet, con</lorem>
+  </string>
+  <string key='YES'>
+    <!--English text: Yes-->
+    <lorem>Lor</lorem>
+  </string>
+  <string key='NO'>
+    <!--English text: No-->
+    <lorem>Lo</lorem>
+  </string>
+  <string key='COLD'>
+    <!--English text: Cold-->
+    <lorem>Lore</lorem>
+  </string>
+  <string key='HOT'>
+    <!--English text: Hot-->
+    <lorem>Lor</lorem>
+  </string>
+  <string key='SWELTERING'>
+    <!--English text: Sweltering-->
+    <lorem>Lorem ipsu</lorem>
+  </string>
+  <string key='FREEZING'>
+    <!--English text: Freezing-->
+    <lorem>Lorem ip</lorem>
+  </string>
+  <string key='SHIPMENT_TO'>
+    <!--English text: Shipment To: -->
+    <lorem>Lorem ipsum d</lorem>
+  </string>
+  <string key='TRADE_MISSION'>
+    <!--English text: Trade Mission-->
+    <lorem>Lorem ipsum d</lorem>
+  </string>
+  <string key='YEARS'>
+    <!--English text: Years-->
+    <lorem>Lorem</lorem>
+  </string>
+  <string key='TIME_UNTIL_NEXT_INVASION'>
+    <!--English text: Time Until Next Invasion:-->
+    <lorem>Lorem ipsum dolor sit ame</lorem>
+  </string>
+  <string key='HOUSE_OCCUPANTS'>
+    <!--English text: House - Current Occupants:-->
+    <lorem>Lorem ipsum dolor sit amet</lorem>
+  </string>
+  <string key='CROP_HARVESTED_TIP'>
+    <!--English text: Crop will be harvested when they are full grown.\nCurrent crop maturity:-->
+    <lorem>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod </lorem>
+  </string>
+  <string key='CONSTRUCTING'>
+    <!--English text: Constructing:-->
+    <lorem>Lorem ipsum d</lorem>
+  </string>
+  <string key='PRIORITIZE_WORK_IN_THIS_AREA'>
+    <!--English text: Prioritize Work In This Area-->
+    <lorem>Lorem ipsum dolor sit amet, </lorem>
+  </string>
+  <string key='HARVEST'>
+    <!--English text: Harvest-->
+    <lorem>Lorem i</lorem>
+  </string>
+  <string key='RALLY_PEABS_TO_POSITION'>
+    <!--English text: Rally Peabs To Position-->
+    <lorem>Lorem ipsum dolor sit a</lorem>
+  </string>
+  <string key='NEEDS_FOOD'>
+    <!--English text: Needs Food Badly-->
+    <lorem>Lorem ipsum dolo</lorem>
+  </string>
+  <string key='HOMELESS_AND_FREEZING'>
+    <!--English text: Homeless and Freezing!-->
+    <lorem>Lorem ipsum dolor sit </lorem>
+  </string>
+  <string key='FREEZING_NO_ENERGY'>
+    <!--English text: Freezing - Home has no Energy for heat-->
+    <lorem>Lorem ipsum dolor sit amet, consectetu</lorem>
+  </string>
+  <string key='NEEDS_ENERGY'>
+    <!--English text: Needs Energy-->
+    <lorem>Lorem ipsum </lorem>
+  </string>
+  <string key='INVADING_TROLL'>
+    <!--English text: Invading Troll-->
+    <lorem>Lorem ipsum do</lorem>
+  </string>
+  <string key='NO_WORKERS_AVAILABLE'>
+    <!--English text: No Peabs available to work here!-->
+    <lorem>Lorem ipsum dolor sit amet, cons</lorem>
+  </string>
+  <string key='ONLY_X_WORKERS_AVAILABLE'>
+    <!--English text: Only {0} Peabs available to work here!-->
+    <lorem>Lorem ipsum dolor sit amet, consectetu</lorem>
+  </string>
+  <string key='PEABS_ARE_HOMELESS'>
+    <!--English text: Peabs are homeless!-->
+    <lorem>Lorem ipsum dolor s</lorem>
+  </string>
+  <string key='AGE'>
+    <!--English text: Age-->
+    <lorem>Lor</lorem>
+  </string>
+  <string key='KEYBIND_ZOOMIN'>
+    <!--English text: Zoom In:-->
+    <lorem>Lorem ip</lorem>
+  </string>
+  <string key='KEYBIND_ZOOMOUT'>
+    <!--English text: Zoom Out:-->
+    <lorem>Lorem ips</lorem>
+  </string>
+  <string key='PAUSE'>
+    <!--English text: Pause-->
+    <lorem>Lorem</lorem>
+  </string>
+  <string key='NORMAL_SPEED'>
+    <!--English text: Normal Speed-->
+    <lorem>Lorem ipsum </lorem>
+  </string>
+  <string key='2X_SPEED'>
+    <!--English text: 2x Speed-->
+    <lorem>Lorem ip</lorem>
+  </string>
+  <string key='5X_SPEED'>
+    <!--English text: 5x Speed-->
+    <lorem>Lorem ip</lorem>
+  </string>
+  <string key='CURRENT_JOB'>
+    <!--English text: Current Job:-->
+    <lorem>Lorem ipsum </lorem>
+  </string>
+  <string key='HAPPINESS'>
+    <!--English text: Happiness:-->
+    <lorem>Lorem ipsu</lorem>
+  </string>
+  <string key='HAS_TOOLS'>
+    <!--English text: Has Tools:-->
+    <lorem>Lorem ipsu</lorem>
+  </string>
+  <string key='HAS_WEAPON'>
+    <!--English text: Has Weapon:-->
+    <lorem>Lorem ipsum</lorem>
+  </string>
+  <string key='COMBAT_SKILL'>
+    <!--English text: Combat Skill:-->
+    <lorem>Lorem ipsum d</lorem>
+  </string>
+  <string key='LOAD_GAME'>
+    <!--English text: Load Game-->
+    <lorem>Lorem ips</lorem>
+  </string>
+  <string key='OPTIONS'>
+    <!--English text: Options-->
+    <lorem>Lorem i</lorem>
+  </string>
+  <string key='EXIT'>
+    <!--English text: Exit-->
+    <lorem>Lore</lorem>
+  </string>
+  <string key='LANGUAGE'>
+    <!--English text: Language:-->
+    <lorem>Lorem ips</lorem>
+  </string>
+  <string key='RESOLUTION'>
+    <!--English text: Resolution:-->
+    <lorem>Lorem ipsum</lorem>
+  </string>
+  <string key='FRAME_RATE'>
+    <!--English text: Frame rate:-->
+    <lorem>Lorem ipsum</lorem>
+  </string>
+  <string key='SHADOW_STYLE'>
+    <!--English text: Shadow Style:-->
+    <lorem>Lorem ipsum d</lorem>
+  </string>
+  <string key='SHADOW_QUALITY'>
+    <!--English text: Shadow Quality:-->
+    <lorem>Lorem ipsum dol</lorem>
+  </string>
+  <string key='ANTI_ALIASING'>
+    <!--English text: Anti-aliasing:-->
+    <lorem>Lorem ipsum do</lorem>
+  </string>
+  <string key='WINDOWED'>
+    <!--English text: Windowed:-->
+    <lorem>Lorem ips</lorem>
+  </string>
+  <string key='MUTE_ON_LOSING_FOCUS'>
+    <!--English text: Mute on losing focus:-->
+    <lorem>Lorem ipsum dolor sit</lorem>
+  </string>
+  <string key='V_SYNC'>
+    <!--English text: V-Sync:-->
+    <lorem>Lorem i</lorem>
+  </string>
+  <string key='CONFIRM'>
+    <!--English text: Confirm-->
+    <lorem>Lorem i</lorem>
+  </string>
+  <string key='DONE'>
+    <!--English text: Done-->
+    <lorem>Lore</lorem>
+  </string>
+  <string key='KEY_BINDINGS'>
+    <!--English text: Key Bindings-->
+    <lorem>Lorem ipsum </lorem>
+  </string>
+  <string key='BACK'>
+    <!--English text: Back-->
+    <lorem>Lore</lorem>
+  </string>
+  <string key='GO'>
+    <!--English text: Go-->
+    <lorem>Lo</lorem>
+  </string>
+  <string key='SWITCH'>
+    <!--English text: Switch-->
+    <lorem>Lorem </lorem>
+  </string>
+  <string key='THISLANGUAGE'>
+    <!--English text: English-->
+    <lorem>Lorem i</lorem>
+  </string>
+  <string key='HARD'>
+    <!--English text: Hard-->
+    <lorem>Lore</lorem>
+  </string>
+  <string key='VERY_HIGH'>
+    <!--English text: Very High-->
+    <lorem>Lorem ips</lorem>
+  </string>
+  <string key='HIGH_QUALITY'>
+    <!--English text: High Quality-->
+    <lorem>Lorem ipsum </lorem>
+  </string>
+  <string key='SPRING'>
+    <!--English text: Spring-->
+    <lorem>Lorem </lorem>
+  </string>
+  <string key='ADEQUATE'>
+    <!--English text: Adequate-->
+    <lorem>Lorem ip</lorem>
+  </string>
+  <string key='COMMON'>
+    <!--English text: Common-->
+    <lorem>Lorem </lorem>
+  </string>
+  <string key='SMALL'>
+    <!--English text: Small-->
+    <lorem>Lorem</lorem>
+  </string>
+  <string key='UNLIMITED'>
+    <!--English text: Unlimited-->
+    <lorem>Lorem ips</lorem>
+  </string>
+  <string key='SOFT'>
+    <!--English text: Soft-->
+    <lorem>Lore</lorem>
+  </string>
+  <string key='OFF'>
+    <!--English text: Off-->
+    <lorem>Lor</lorem>
+  </string>
+  <string key='LOW'>
+    <!--English text: Low-->
+    <lorem>Lor</lorem>
+  </string>
+  <string key='MEDIUM'>
+    <!--English text: Medium-->
+    <lorem>Lorem </lorem>
+  </string>
+  <string key='HIGH'>
+    <!--English text: High-->
+    <lorem>Lore</lorem>
+  </string>
+  <string key='NONE'>
+    <!--English text: None-->
+    <lorem>Lore</lorem>
+  </string>
+  <string key='SIMPLE'>
+    <!--English text: Simple-->
+    <lorem>Lorem </lorem>
+  </string>
+  <string key='SUMMER'>
+    <!--English text: Summer-->
+    <lorem>Lorem </lorem>
+  </string>
+  <string key='FALL'>
+    <!--English text: Fall-->
+    <lorem>Lore</lorem>
+  </string>
+  <string key='WINTER'>
+    <!--English text: Winter-->
+    <lorem>Lorem </lorem>
+  </string>
+  <string key='ABUNDANT'>
+    <!--English text: Abundant-->
+    <lorem>Lorem ip</lorem>
+  </string>
+  <string key='SPARSE'>
+    <!--English text: Sparse-->
+    <lorem>Lorem </lorem>
+  </string>
+  <string key='MANY'>
+    <!--English text: Many-->
+    <lorem>Lore</lorem>
+  </string>
+  <string key='FEW'>
+    <!--English text: Few-->
+    <lorem>Lor</lorem>
+  </string>
+  <string key='HARROWING'>
+    <!--English text: Harrowing-->
+    <lorem>Lorem ips</lorem>
+  </string>
+  <string key='RARE'>
+    <!--English text: Rare-->
+    <lorem>Lore</lorem>
+  </string>
+  <string key='LARGE'>
+    <!--English text: Large-->
+    <lorem>Lorem</lorem>
+  </string>
+  <string key='TINY'>
+    <!--English text: Tiny-->
+    <lorem>Lore</lorem>
+  </string>
+  <string key='BUILD_A_FARM'>
+    <!--English text: Build a Farm-->
+    <lorem>Lorem ipsum </lorem>
+  </string>
+  <string key='BUILD_A_MINE'>
+    <!--English text: Build a Mine-->
+    <lorem>Lorem ipsum </lorem>
+  </string>
+  <string key='WOOD'>
+    <!--English text: Wood-->
+    <lorem>Lore</lorem>
+  </string>
+  <string key='BUILD_TOOLTIP'>
+    <!--English text: Build a {0}-->
+    <lorem>Lorem ipsum</lorem>
+  </string>
+  <string key='BUILD_A_RANCH'>
+    <!--English text: Build a Ranch-->
+    <lorem>Lorem ipsum d</lorem>
+  </string>
+  <string key='STONE'>
+    <!--English text: Stone-->
+    <lorem>Lorem</lorem>
+  </string>
+  <string key='BUILD_A_HOUSE'>
+    <!--English text: Build a House-->
+    <lorem>Lorem ipsum d</lorem>
+  </string>
+  <string key='BUILD_A_STORAGE'>
+    <!--English text: Build a Storage-->
+    <lorem>Lorem ipsum dol</lorem>
+  </string>
+  <string key='BUILD_A_WORKSHOP'>
+    <!--English text: Build a Workshop-->
+    <lorem>Lorem ipsum dolo</lorem>
+  </string>
+  <string key='IRON'>
+    <!--English text: Iron-->
+    <lorem>Lore</lorem>
+  </string>
+  <string key='BUILD_A_FOUNDRY'>
+    <!--English text: Build a Foundry-->
+    <lorem>Lorem ipsum dol</lorem>
+  </string>
+  <string key='BUILD_A_COALGENERATOR'>
+    <!--English text: Build a CoalGenerator-->
+    <lorem>Lorem ipsum dolor sit</lorem>
+  </string>
+  <string key='BUILD_A_SOLARCELL'>
+    <!--English text: Build a SolarCell-->
+    <lorem>Lorem ipsum dolor</lorem>
+  </string>
+  <string key='STEEL'>
+    <!--English text: Steel-->
+    <lorem>Lorem</lorem>
+  </string>
+  <string key='FUEL'>
+    <!--English text: Fuel-->
+    <lorem>Lore</lorem>
+  </string>
+  <string key='BUILD_A_WINDMILL'>
+    <!--English text: Build a Windmill-->
+    <lorem>Lorem ipsum dolo</lorem>
+  </string>
+  <string key='BUILD_A_SCHOOL'>
+    <!--English text: Build a School-->
+    <lorem>Lorem ipsum do</lorem>
+  </string>
+  <string key='BUILD_A_HOSPITAL'>
+    <!--English text: Build a Hospital-->
+    <lorem>Lorem ipsum dolo</lorem>
+  </string>
+  <string key='BUILD_A_DUMP'>
+    <!--English text: Build a Dump-->
+    <lorem>Lorem ipsum </lorem>
+  </string>
+  <string key='BUILD_A_OFFICE'>
+    <!--English text: Build a Office-->
+    <lorem>Lorem ipsum do</lorem>
+  </string>
+  <string key='BUILD_A_CEMETERY'>
+    <!--English text: Build a Cemetery-->
+    <lorem>Lorem ipsum dolo</lorem>
+  </string>
+  <string key='BUILD_A_LAUNCHPAD'>
+    <!--English text: Build a Launchpad-->
+    <lorem>Lorem ipsum dolor</lorem>
+  </string>
+  <string key='CORE_TOOLTIP_COMMANDS'>
+    <!--English text: Commands-->
+    <lorem>Lorem ip</lorem>
+  </string>
+  <string key='CORE_TOOLTIP_RESOURCE_BUILDINGS'>
+    <!--English text: Resource Buildings-->
+    <lorem>Lorem ipsum dolor </lorem>
+  </string>
+  <string key='CORE_TOOLTIP_PRODUCTION_BUILDINGS'>
+    <!--English text: Production Buildings-->
+    <lorem>Lorem ipsum dolor si</lorem>
+  </string>
+  <string key='CORE_TOOLTIP_CITY_SERVICES'>
+    <!--English text: City Services-->
+    <lorem>Lorem ipsum d</lorem>
+  </string>
+  <string key='CORE_TOOLTIP_MENUS'>
+    <!--English text: Menus-->
+    <lorem>Lorem</lorem>
+  </string>
+  <string key='CORE_TOOLTIP_GAME_SPEED'>
+    <!--English text: Game Speed-->
+    <lorem>Lorem ipsu</lorem>
+  </string>
+  <string key='ISSUE_A_COMMAND_TO_GATHER_FOOD'>
+    <!--English text: Issue a command to gather Food.-->
+    <lorem>Lorem ipsum dolor sit amet, con</lorem>
+  </string>
+  <string key='ISSUE_A_COMMAND_TO_GATHER_STONE'>
+    <!--English text: Issue a command to gather Stone.-->
+    <lorem>Lorem ipsum dolor sit amet, cons</lorem>
+  </string>
+  <string key='ISSUE_A_COMMAND_TO_GATHER_WOOD'>
+    <!--English text: Issue a command to gather Wood.-->
+    <lorem>Lorem ipsum dolor sit amet, con</lorem>
+  </string>
+  <string key='DEMOLISH_A_BUILDING'>
+    <!--English text: Demolish a building.-->
+    <lorem>Lorem ipsum dolor si</lorem>
+  </string>
+  <string key='CORE_TOOLTIP_RESOURCES'>
+    <!--English text: Resources - See a list of all resources stored on this planet.-->
+    <lorem>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed d</lorem>
+  </string>
+  <string key='CORE_TOOLTIP_PROFESSIONS'>
+    <!--English text: Professions - Globally assign Peabs to different types of buildings on this planet.-->
+    <lorem>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor inci</lorem>
+  </string>
+  <string key='CORE_TOOLTIP_POPULATION'>
+    <!--English text: Population - Information about the health and happiness of your Peabs.-->
+    <lorem>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmo</lorem>
+  </string>
+  <string key='CORE_TOOLTIP_EVENTS'>
+    <!--English text: Events - Keep an eye on what's happening.-->
+    <lorem>Lorem ipsum dolor sit amet, consectetur a</lorem>
+  </string>
+  <string key='CORE_TOOLTIP_CALENDAR'>
+    <!--English text: Calendar - Check the season.-->
+    <lorem>Lorem ipsum dolor sit amet, </lorem>
+  </string>
+  <string key='SAVE_GAME'>
+    <!--English text: Save Game-->
+    <lorem>Lorem ips</lorem>
+  </string>
+  <string key='RESUME'>
+    <!--English text: Resume-->
+    <lorem>Lorem </lorem>
+  </string>
+  <string key='QUIT_TO_MAIN_MENU'>
+    <!--English text: Quit to Main Menu-->
+    <lorem>Lorem ipsum dolor</lorem>
+  </string>
+  <string key='QUIT_TO_DESKTOP'>
+    <!--English text: Quit to Desktop-->
+    <lorem>Lorem ipsum dol</lorem>
+  </string>
+  <string key='LOAD'>
+    <!--English text: Load-->
+    <lorem>Lore</lorem>
+  </string>
+  <string key='CANCEL'>
+    <!--English text: Cancel-->
+    <lorem>Lorem </lorem>
+  </string>
+  <string key='SHORTCUT'>
+    <!--English text: Shortcut:-->
+    <lorem>Lorem ips</lorem>
+  </string>
+  <string key='RESTORE_DEFAULTS'>
+    <!--English text: Restore Defaults-->
+    <lorem>Lorem ipsum dolo</lorem>
+  </string>
+  <string key='KEYBIND_MAPTRANSITION'>
+    <!--English text: Go To Map-->
+    <lorem>Lorem ips</lorem>
+  </string>
+  <string key='KEYBIND_TOGGLEPAUSEMENU'>
+    <!--English text: Toggle Pause Menu-->
+    <lorem>Lorem ipsum dolor</lorem>
+  </string>
+  <string key='KEYBIND_STOPTIME'>
+    <!--English text: Stop Time-->
+    <lorem>Lorem ips</lorem>
+  </string>
+  <string key='KEYBIND_NORMALTIME'>
+    <!--English text: Normal Speed-->
+    <lorem>Lorem ipsum </lorem>
+  </string>
+  <string key='KEYBIND_FASTTIME'>
+    <!--English text: Fast Speed-->
+    <lorem>Lorem ipsu</lorem>
+  </string>
+  <string key='KEYBIND_VERYFASTTIME'>
+    <!--English text: Very Fast Speed-->
+    <lorem>Lorem ipsum dol</lorem>
+  </string>
+  <string key='KEYBIND_SHOWPROFESSIONS'>
+    <!--English text: Show Professions-->
+    <lorem>Lorem ipsum dolo</lorem>
+  </string>
+  <string key='KEYBIND_SHOWPOPULATION'>
+    <!--English text: Show Population-->
+    <lorem>Lorem ipsum dol</lorem>
+  </string>
+  <string key='KEYBIND_SHOWINVENTORY'>
+    <!--English text: Show Inventory-->
+    <lorem>Lorem ipsum do</lorem>
+  </string>
+  <string key='KEYBIND_SHOWEVENTS'>
+    <!--English text: Show Events-->
+    <lorem>Lorem ipsum</lorem>
+  </string>
+  <string key='KEYBIND_SHOWCLOCK'>
+    <!--English text: Show Calendar-->
+    <lorem>Lorem ipsum d</lorem>
+  </string>
+  <string key='KEYBIND_ROTATECLOCKWISE'>
+    <!--English text: Rotate Clockwise-->
+    <lorem>Lorem ipsum dolo</lorem>
+  </string>
+  <string key='KEYBIND_ROTATECOUNTERCLOCKWISE'>
+    <!--English text: Rotate Counter Clockwise-->
+    <lorem>Lorem ipsum dolor sit am</lorem>
+  </string>
+  <string key='KEYBIND_ROTATELEFT'>
+    <!--English text: Rotate Left-->
+    <lorem>Lorem ipsum</lorem>
+  </string>
+  <string key='KEYBIND_ROTATERIGHT'>
+    <!--English text: Rotate Right-->
+    <lorem>Lorem ipsum </lorem>
+  </string>
+  <string key='KEYBIND_ROTATEUP'>
+    <!--English text: Rotate Up-->
+    <lorem>Lorem ips</lorem>
+  </string>
+  <string key='KEYBIND_ROTATEDOWN'>
+    <!--English text: Rotate Down-->
+    <lorem>Lorem ipsum</lorem>
+  </string>
+  <string key='CURRENTLY'>
+    <!--English text: Currently:-->
+    <lorem>Lorem ipsu</lorem>
+  </string>
+  <string key='HOLDING'>
+    <!--English text: Holding:-->
+    <lorem>Lorem ip</lorem>
+  </string>
+  <string key='HEALTH'>
+    <!--English text: Health:-->
+    <lorem>Lorem i</lorem>
+  </string>
+  <string key='HUNGER'>
+    <!--English text: Hunger:-->
+    <lorem>Lorem i</lorem>
+  </string>
+  <string key='EDUCATION'>
+    <!--English text: Education:-->
+    <lorem>Lorem ipsu</lorem>
+  </string>
+  <string key='TOOL'>
+    <!--English text: Tool:-->
+    <lorem>Lorem</lorem>
+  </string>
+  <string key='COMBAT'>
+    <!--English text: Combat:-->
+    <lorem>Lorem i</lorem>
+  </string>
+  <string key='PEAB'>
+    <!--English text: Peab-->
+    <lorem>Lore</lorem>
+  </string>
+  <string key='CORE_TOOLTIP_MAP'>
+    <!--English text: Galaxy Map-->
+    <lorem>Lorem ipsu</lorem>
+  </string>
+  <string key='AGRICULTURE1_TITLE'>
+    <!--English text: Organized Farming-->
+    <lorem>Lorem ipsum dolor</lorem>
+  </string>
+  <string key='AGRICULTURE1_DESC'>
+    <!--English text: Farms will produce more food, but also more paperwork.-->
+    <lorem>Lorem ipsum dolor sit amet, consectetur adipiscing eli</lorem>
+  </string>
+  <string key='AGRICULTURE2_TITLE'>
+    <!--English text: Efficient Mining-->
+    <lorem>Lorem ipsum dolo</lorem>
+  </string>
+  <string key='AGRICULTURE2_DESC'>
+    <!--English text: Mines will produce more resources, but also more waste.-->
+    <lorem>Lorem ipsum dolor sit amet, consectetur adipiscing elit</lorem>
+  </string>
+  <string key='AGRICULTURE3_TITLE'>
+    <!--English text: Ridiculous Fishing-->
+    <lorem>Lorem ipsum dolor </lorem>
+  </string>
+  <string key='AGRICULTURE3_DESC'>
+    <!--English text: Boats will produce more food, but also a bit more paperwork to cover the firearms licenses.-->
+    <lorem>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt u</lorem>
+  </string>
+  <string key='AGRICULTURE4_TITLE'>
+    <!--English text: High Maintainence Agriculture-->
+    <lorem>Lorem ipsum dolor sit amet, c</lorem>
+  </string>
+  <string key='AGRICULTURE4_DESC'>
+    <!--English text: Farms produce much more food, but there's a lost of paperwork required to keep them running.-->
+    <lorem>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut</lorem>
+  </string>
+  <string key='AGRICULTURE5_TITLE'>
+    <!--English text: Explosive Mining-->
+    <lorem>Lorem ipsum dolo</lorem>
+  </string>
+  <string key='AGRICULTURE5_DESC'>
+    <!--English text: Mines produce much more resources, along with a lot more rubble and trash.-->
+    <lorem>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod te</lorem>
+  </string>
+  <string key='INDUSTRIAL1_TITLE'>
+    <!--English text: Improved Tool Production-->
+    <lorem>Lorem ipsum dolor sit am</lorem>
+  </string>
+  <string key='INDUSTRIAL1_DESC'>
+    <!--English text: Make the thing you use to make things, better.-->
+    <lorem>Lorem ipsum dolor sit amet, consectetur adipis</lorem>
+  </string>
+  <string key='INDUSTRIAL2_TITLE'>
+    <!--English text: Improved Steel Production-->
+    <lorem>Lorem ipsum dolor sit ame</lorem>
+  </string>
+  <string key='INDUSTRIAL2_DESC'>
+    <!--English text: Factories produce more steel, but also more waste.-->
+    <lorem>Lorem ipsum dolor sit amet, consectetur adipiscing</lorem>
+  </string>
+  <string key='INDUSTRIAL3_TITLE'>
+    <!--English text: Improve Waste Management-->
+    <lorem>Lorem ipsum dolor sit am</lorem>
+  </string>
+  <string key='INDUSTRIAL3_DESC'>
+    <!--English text: Paperwork and Trash are dealt with more efficiently. Additional fuel will be required.-->
+    <lorem>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incidid</lorem>
+  </string>
+  <string key='INDUSTRIAL4_TITLE'>
+    <!--English text: Overclocked Generators-->
+    <lorem>Lorem ipsum dolor sit </lorem>
+  </string>
+  <string key='INDUSTRIAL4_DESC'>
+    <!--English text: Furnaces produce more power, but also more waste.-->
+    <lorem>Lorem ipsum dolor sit amet, consectetur adipiscin</lorem>
+  </string>
+  <string key='INDUSTRIAL5_TITLE'>
+    <!--English text: Magic Waste Management-->
+    <lorem>Lorem ipsum dolor sit </lorem>
+  </string>
+  <string key='INDUSTRIAL5_DESC'>
+    <!--English text: Trash and Paperwork seem to disappear, along with a lot of fuel.-->
+    <lorem>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do </lorem>
+  </string>
+  <string key='MILITARY1_TITLE'>
+    <!--English text: Stronger Weapons-->
+    <lorem>Lorem ipsum dolo</lorem>
+  </string>
+  <string key='MILITARY1_DESC'>
+    <!--English text: Workshops produce better weaponary, but also require more fuel.-->
+    <lorem>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do</lorem>
+  </string>
+  <string key='MILITARY2_TITLE'>
+    <!--English text: Shields-->
+    <lorem>Lorem i</lorem>
+  </string>
+  <string key='MILITARY2_DESC'>
+    <!--English text: Allows workshops to produce Shields. It turns out that going into battle with some protection could be a good idea.-->
+    <lorem>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna</lorem>
+  </string>
+  <string key='MILITARY3_TITLE'>
+    <!--English text: Cheaper Space Travel-->
+    <lorem>Lorem ipsum dolor si</lorem>
+  </string>
+  <string key='MILITARY3_DESC'>
+    <!--English text: Voyages to other planets will be cheaper. Anything hostile you find there will still be just as tough though.-->
+    <lorem>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore</lorem>
+  </string>
+  <string key='MILITARY4_TITLE'>
+    <!--English text: Stronger Shields-->
+    <lorem>Lorem ipsum dolo</lorem>
+  </string>
+  <string key='MILITARY4_DESC'>
+    <!--English text: Workshops will produce more effective shields. They will cost more in fuel though.-->
+    <lorem>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor inc</lorem>
+  </string>
+  <string key='MILITARY5_TITLE'>
+    <!--English text: Better Weaponary-->
+    <lorem>Lorem ipsum dolo</lorem>
+  </string>
+  <string key='MILITARY5_DESC'>
+    <!--English text: Workshops will produce better weapons. They'll cost a bit more too, but who wants to go into battle with cheap weapons?-->
+    <lorem>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna ali</lorem>
+  </string>
+  <string key='SCIENCE1_TITLE'>
+    <!--English text: Increase Science Output-->
+    <lorem>Lorem ipsum dolor sit a</lorem>
+  </string>
+  <string key='SCIENCE1_DESC'>
+    <!--English text: Research how to research faster.-->
+    <lorem>Lorem ipsum dolor sit amet, cons</lorem>
+  </string>
+  <string key='SCIENCE2_TITLE'>
+    <!--English text: Wind Power-->
+    <lorem>Lorem ipsu</lorem>
+  </string>
+  <string key='SCIENCE2_DESC'>
+    <!--English text: Allows you to construct Wind Turbines. A louder but less smelly method of generating power.-->
+    <lorem>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt u</lorem>
+  </string>
+  <string key='SCIENCE3_TITLE'>
+    <!--English text: Solar Power-->
+    <lorem>Lorem ipsum</lorem>
+  </string>
+  <string key='SCIENCE3_DESC'>
+    <!--English text: Allows you to build Solar Panels. Why should plants have all the fun?-->
+    <lorem>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusm</lorem>
+  </string>
+  <string key='SCIENCE4_TITLE'>
+    <!--English text: Improved Research-->
+    <lorem>Lorem ipsum dolor</lorem>
+  </string>
+  <string key='SCIENCE4_DESC'>
+    <!--English text: Yo dawg. I heard you like Research, so I researched research so you can research faster.-->
+    <lorem>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididun</lorem>
+  </string>
+  <string key='SCIENCE5_TITLE'>
+    <!--English text: Improved Renewable Output-->
+    <lorem>Lorem ipsum dolor sit ame</lorem>
+  </string>
+  <string key='SCIENCE5_DESC'>
+    <!--English text: Renewable energy sources become a lot more productive.-->
+    <lorem>Lorem ipsum dolor sit amet, consectetur adipiscing eli</lorem>
+  </string>
+  <string key='NO_ACTIVE_RESEARCH'>
+    <!--English text: No Active Research-->
+    <lorem>Lorem ipsum dolor </lorem>
+  </string>
+  <string key='RESEARCH'>
+    <!--English text: Research-->
+    <lorem>Lorem ip</lorem>
+  </string>
+  <string key='CORE_TOOLTIP_RESIDENTIAL_BUILDINGS'>
+    <!--English text: Residential Buildings-->
+    <lorem>Lorem ipsum dolor sit</lorem>
+  </string>
+  <string key='CORE_TOOLTIP_SERVICE_BUILDINGS'>
+    <!--English text: Service Buildings-->
+    <lorem>Lorem ipsum dolor</lorem>
+  </string>
+  <string key='CORE_TOOLTIP_INDUSTRIAL_BUILDINGS'>
+    <!--English text: Industrial Buildings-->
+    <lorem>Lorem ipsum dolor si</lorem>
+  </string>
+  <string key='BUILD_A_LAB'>
+    <!--English text: Build a Lab-->
+    <lorem>Lorem ipsum</lorem>
+  </string>
+  <string key='RESEARCH_REQUIRED'>
+    <!--English text: Research Required-->
+    <lorem>Lorem ipsum dolor</lorem>
+  </string>
+  <string key='PROFESSIONS'>
+    <!--English text: Professions-->
+    <lorem>Lorem ipsum</lorem>
+  </string>
+  <string key='MILITARY'>
+    <!--English text: Military-->
+    <lorem>Lorem ip</lorem>
+  </string>
+  <string key='INDUSTRY'>
+    <!--English text: Industry-->
+    <lorem>Lorem ip</lorem>
+  </string>
+  <string key='RESOURCES'>
+    <!--English text: Resources-->
+    <lorem>Lorem ips</lorem>
+  </string>
+  <string key='SCIENCE'>
+    <!--English text: Science-->
+    <lorem>Lorem i</lorem>
+  </string>
+  <string key='PLANET'>
+    <!--English text: Planet-->
+    <lorem>Lorem </lorem>
+  </string>
+  <string key='NAME'>
+    <!--English text: Name-->
+    <lorem>Lore</lorem>
+  </string>
+  <string key='ADULTS'>
+    <!--English text: Adults-->
+    <lorem>Lorem </lorem>
+  </string>
+  <string key='CHILDREN'>
+    <!--English text: Children-->
+    <lorem>Lorem ip</lorem>
+  </string>
+  <string key='DESERT'>
+    <!--English text: Desert-->
+    <lorem>Lorem </lorem>
+  </string>
+  <string key='TYPE'>
+    <!--English text: Type-->
+    <lorem>Lore</lorem>
+  </string>
+  <string key='COAL'>
+    <!--English text: Coal-->
+    <lorem>Lore</lorem>
+  </string>
+  <string key='SAVANNA'>
+    <!--English text: Savanna-->
+    <lorem>Lorem i</lorem>
+  </string>
+  <string key='VOLCANIC'>
+    <!--English text: Volcanic-->
+    <lorem>Lorem ip</lorem>
+  </string>
+  <string key='TEMPERATE'>
+    <!--English text: Temperate-->
+    <lorem>Lorem ips</lorem>
+  </string>
+  <string key='RESEARCH_COMPLETED'>
+    <!--English text: Research Completed-->
+    <lorem>Lorem ipsum dolor </lorem>
+  </string>
+  <string key='MUST_BE_BUILT_ON_WATER'>
+    <!--English text: Must be built on water-->
+    <lorem>Lorem ipsum dolor sit </lorem>
+  </string>
+  <string key='MUST_BE_BUILT_ON_LAND'>
+    <!--English text: Must be built on land-->
+    <lorem>Lorem ipsum dolor sit</lorem>
+  </string>
+  <string key='INTRONOTE_TITLE'>
+    <!--English text: A New Home?-->
+    <lorem>Lorem ipsum</lorem>
+  </string>
+  <string key='INTRONOTE_MESSAGE'>
+    <!--English text:   Your tiny band of colonists fled a crowded and oppressive homeworld in search of an ideal planet on which to start a new civilization. But even after years of wandering you've never found one.
+  Now, with your ship malfunctioning and supplies running short, you are forced to land in a remote and hostile galaxy. You have food and fuel to last only a short time and almost no building materials. Can you make this strange new world your home?-->
+    <lorem>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</lorem>
+  </string>
+  <string key='TUTFARMNOTE_TITLE'>
+    <!--English text: Food Required-->
+    <lorem>Lorem ipsum d</lorem>
+  </string>
+  <string key='TUTFARMNOTE_MESSAGE'>
+    <!--English text: You only have enough food on your ship to last you a short time. You should begin by constructing Farms and Boats to produce food. Boats can catch a small amount of fish year round, while Farms can produce much more food per year. But Farm crops must be planted in Spring and won't be harvestable until Fall. Any plants that aren't harvested by Winter will be lost.-->
+    <lorem>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupida</lorem>
+  </string>
+  <string key='UNUSED_NEW_HOME'>
+    <!--English text: A New Home?-->
+    <lorem>Lorem ipsum</lorem>
+  </string>
+  <string key='MUST_BE_BUILT_ON_FLAT_GROUND'>
+    <!--English text: Must be built on flat ground-->
+    <lorem>Lorem ipsum dolor sit amet, </lorem>
+  </string>
+  <string key='FOOD_REQUIRED'>
+    <!--English text: Food Required-->
+    <lorem>Lorem ipsum d</lorem>
+  </string>
+  <string key='RALLY_YOUR_PEABS_TO_ONE_POSITION'>
+    <!--English text: Rally your Peabs to one position.-->
+    <lorem>Lorem ipsum dolor sit amet, conse</lorem>
+  </string>
+  <string key='PRIORITIZE_JOBS_IN_ONE_AREA'>
+    <!--English text: Prioritize jobs in one area.-->
+    <lorem>Lorem ipsum dolor sit amet, </lorem>
+  </string>
+  <string key='HARVEST_WOOD'>
+    <!--English text: Harvest Wood-->
+    <lorem>Lorem ipsum </lorem>
+  </string>
+  <string key='TUTTIMECONTROLNOTE_TITLE'>
+    <!--English text: Time Controls-->
+    <lorem>Lorem ipsum d</lorem>
+  </string>
+  <string key='TUTTIMECONTROLNOTE_MESSAGE'>
+    <!--English text: If you are comfortable with how your new civilization is progressing and you want to hurry things along, you can adjust the speed of the game using the [1], [2], and [3] keys. You may also pause and unpause using the Spacebar.-->
+    <lorem>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo conse</lorem>
+  </string>
+  <string key='TUTENERGYNOTE_TITLE'>
+    <!--English text: Energy Required-->
+    <lorem>Lorem ipsum dol</lorem>
+  </string>
+  <string key='TUTENERGYNOTE_MESSAGE'>
+    <!--English text: Your civilization needs a source of energy. Houses will need to consume energy in the winter to stay warm, while factories, workshops and mines consume energy in order to produce goods. You should build a Furnace to begin producing energy. Furnaces can burn wood to produce a small amount of energy, or coal to produce much more. Coal, however, must first be dug out of the ground using a Mine.-->
+    <lorem>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in cul</lorem>
+  </string>
+  <string key='TOOLTIP_FOR_MINE'>
+    <!--English text: Mine -  Mines can be configured to produce Coal, Iron, or Stone.-->
+    <lorem>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do </lorem>
+  </string>
+  <string key='TOOLTIP_FOR_COALGENERATOR'>
+    <!--English text: Furnace -  Furnaces produce Energy for other buildings. They can be configured to burn Wood, but are much more efficient when burning Coal.-->
+    <lorem>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad mini</lorem>
+  </string>
+  <string key='TOOLTIP_FOR_WORKSHOP'>
+    <!--English text: Workshop -  Workshops consume Iron and Wood, and produce Tools for your Peabs. Without proper tools, workers will be much less efficient.-->
+    <lorem>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad mi</lorem>
+  </string>
+  <string key='TOOLTIP_FOR_FOUNDRY'>
+    <!--English text: Foundry -  Foundries convert Iron and Coal into Steel, an important ingredient in more advanced structures, like Spaceships.-->
+    <lorem>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </lorem>
+  </string>
+  <string key='TOOLTIP_FOR_DUMP'>
+    <!--English text: Dump -  Dumps give your Peabs somewhere to store their Trash. The more workers you have assigned to Dumps, the faster Trash will be sorted and disposed of permanently.-->
+    <lorem>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exerc</lorem>
+  </string>
+  <string key='TOOLTIP_FOR_LAUNCHPAD'>
+    <!--English text: Launchpad -  Launchpads are necessary for building Spaceships and exploring the galaxy. Once you have a Launchpad build on two different planets, you can create trade routes that allow planets to share resources.-->
+    <lorem>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea</lorem>
+  </string>
+  <string key='CORE_TOOLTIP_RESEARCH'>
+    <!--English text: Research-->
+    <lorem>Lorem ip</lorem>
+  </string>
+  <string key='TOOLTIP_FOR_FARM'>
+    <!--English text: Farm -  Farms can be configured to grow Food, or Wood. While Farms can produce a great deal of food, they need a full year for crops to mature, and any crops that aren't harvested by Winter will be lost.-->
+    <lorem>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliq</lorem>
+  </string>
+  <string key='TOOLTIP_FOR_BOAT'>
+    <!--English text: Boat -  Fishing boats produce food year round, but generally produce much less than Farms.-->
+    <lorem>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt </lorem>
+  </string>
+  <string key='TOOLTIP_FOR_HOUSE'>
+    <!--English text: House -  Each House has room for 5 Peabs. Your population will grow so long as there is additional Housing space. During very cold (or very hot) seasons, Houses will consume Energy to keep their occupants at a safe temperature. Without Energy, the House's occupants may die of exposure.-->
+    <lorem>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate ve</lorem>
+  </string>
+  <string key='TOOLTIP_FOR_SCHOOL'>
+    <!--English text: School -  Schools increase the Education level of Peabs on this planet. Better educated Peabs are more efficient at their jobs.-->
+    <lorem>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut </lorem>
+  </string>
+  <string key='TOOLTIP_FOR_HOSPITAL'>
+    <!--English text: Hospital -  Hopsitals improve the health of the Peabs on this planet, and help to prevent plagues.-->
+    <lorem>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labor</lorem>
+  </string>
+  <string key='TOOLTIP_FOR_CEMETERY'>
+    <!--English text: Cemetery -  Cemeteries give Peabs a place to bury their dead. Peabs will become unhappy if they don't have a place to bury corpses, and the Dead may become restless as well.-->
+    <lorem>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitatio</lorem>
+  </string>
+  <string key='TOOLTIP_FOR_STORAGE'>
+    <!--English text: Storage -  Storage is used to hold your planet's resources.-->
+    <lorem>Lorem ipsum dolor sit amet, consectetur adipiscing elit, se</lorem>
+  </string>
+  <string key='TOOLTIP_FOR_OFFICE'>
+    <!--English text: Office -  Offices reduce the Paperwork that is generated by other jobs on your planet. Failure to properly handle paperwork may have dire long term consequences...-->
+    <lorem>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud e</lorem>
+  </string>
+  <string key='TOOLTIP_FOR_LAB'>
+    <!--English text: Observatory -  Observatories allow you to watch the skies and predict when threats may arrive.-->
+    <lorem>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut l</lorem>
+  </string>
+  <string key='TOOLTIP_FOR_WINDMILL'>
+    <!--English text: Windmill -  Windmills provide clean Energy. They work best on cold, windy planets.-->
+    <lorem>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor inc</lorem>
+  </string>
+  <string key='TOOLTIP_FOR_SOLARCELL'>
+    <!--English text: Solar Cell -  Solar Cells provide clean Energy. They work best on hot, sunny planets.-->
+    <lorem>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incidi</lorem>
+  </string>
+  <string key='TIME_CONTROLS'>
+    <!--English text: Time Controls-->
+    <lorem>Lorem ipsum d</lorem>
+  </string>
+  <string key='NEEDS_HOME'>
+    <!--English text: Needs Home-->
+    <lorem>Lorem ipsu</lorem>
+  </string>
+  <string key='ENERGY_REQUIRED'>
+    <!--English text: Energy Required-->
+    <lorem>Lorem ipsum dol</lorem>
+  </string>
+  <string key='TUTINVASIONNOTE_TITLE'>
+    <!--English text: Unwelcome Visitors-->
+    <lorem>Lorem ipsum dolor </lorem>
+  </string>
+  <string key='TUTINVASIONNOTE_MESSAGE'>
+    <!--English text: A passing ship seems to have noticed your new colony, and is preparing to land. In this remote corner of the universe uninvited guests are rarely good company.-->
+    <lorem>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr</lorem>
+  </string>
+  <string key='TUTHOUSINGNOTE_TITLE'>
+    <!--English text: Housing Needed-->
+    <lorem>Lorem ipsum do</lorem>
+  </string>
+  <string key='TUTHOUSINGNOTE_MESSAGE'>
+    <!--English text: Your Peabs require houses to live in. In winter, your Peabs will need homes and a supply of Energy to heat them or they will freeze to death. Make sure you have both before winter comes!
+  Fun fact: If you have extra housing available, your planet's population will gradually grow to fill it. -->
+    <lorem>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit ess</lorem>
+  </string>
+  <string key='OVERLAPS'>
+    <!--English text: Overlaps-->
+    <lorem>Lorem ip</lorem>
+  </string>
+  <string key='SHIP'>
+    <!--English text: Ship-->
+    <lorem>Lore</lorem>
+  </string>
+  <string key='TUTWORKERSNOTE_TITLE'>
+    <!--English text: Workers Needed-->
+    <lorem>Lorem ipsum do</lorem>
+  </string>
+  <string key='TUTWORKERSNOTE_MESSAGE'>
+    <!--English text: Your planet has buildings that aren't producing anything, because there are no Peabs assigned to work in them. Use the Jobs menu [Hotkey: J] to assign Peabs to different roles.-->
+    <lorem>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation u</lorem>
+  </string>
+  <string key='UNWELCOME_VISITORS'>
+    <!--English text: Unwelcome Visitors-->
+    <lorem>Lorem ipsum dolor </lorem>
+  </string>
+  <string key='TUTINVASIONSUCCESSNOTE_TITLE'>
+    <!--English text: Invaders Repeled!-->
+    <lorem>Lorem ipsum dolor</lorem>
+  </string>
+  <string key='TUTINVASIONSUCCESSNOTE_MESSAGE'>
+    <!--English text: Your citizens have successfully repelled a band of invading Trolls! While you savor this small victory, it would be a good idea to plan ahead. Where there's one band of Trolls, there are bound to be other, large packs, and maybe other even more terrifying creatures.
+  Building Forts and assigning Peabs to the Soldier profession will leave you better defended against future attacks.-->
+    <lorem>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, s</lorem>
+  </string>
+  <string key='HOUSING_NEEDED'>
+    <!--English text: Housing Needed-->
+    <lorem>Lorem ipsum do</lorem>
+  </string>
+  <string key='TOO_CLOSE_TO_RESIDENTIAL_BUILDINGS'>
+    <!--English text: Too close to residential buildings-->
+    <lorem>Lorem ipsum dolor sit amet, consec</lorem>
+  </string>
+  <string key='CONSTRUCTIONSITE'>
+    <!--English text: ConstructionSite-->
+    <lorem>Lorem ipsum dolo</lorem>
+  </string>
+  <string key='WORKERS_NEEDED'>
+    <!--English text: Workers Needed-->
+    <lorem>Lorem ipsum do</lorem>
+  </string>
+  <string key='PLANET_STORAGE_'>
+    <!--English text: Planet Storage: -->
+    <lorem>Lorem ipsum dolo</lorem>
+  </string>
+  <string key='TUTTOOLNOTE_TITLE'>
+    <!--English text: Tools Needed-->
+    <lorem>Lorem ipsum </lorem>
+  </string>
+  <string key='TUTTOOLNOTE_MESSAGE'>
+    <!--English text:   Your Peabs work much more efficiently if they have the appropriate tools. Try building a Workshop to produce Tools and boost productivity.-->
+    <lorem>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim</lorem>
+  </string>
+  <string key='NO_MATERIALS'>
+    <!--English text: No Materials-->
+    <lorem>Lorem ipsum </lorem>
+  </string>
+  <string key='ENERGY'>
+    <!--English text: ENERGY-->
+    <lorem>Lorem </lorem>
+  </string>
+  <string key='COAL_GENERATOR'>
+    <!--English text: Coal Generator-->
+    <lorem>Lorem ipsum do</lorem>
+  </string>
+  <string key='CONSUMING'>
+    <!--English text: Consuming-->
+    <lorem>Lorem ips</lorem>
+  </string>
+  <string key='PRODUCING'>
+    <!--English text: Producing-->
+    <lorem>Lorem ips</lorem>
+  </string>
+  <string key='POPULATION'>
+    <!--English text: Population-->
+    <lorem>Lorem ipsu</lorem>
+  </string>
+  <string key='UNUSED_ADULTS'>
+    <!--English text: Adults:-->
+    <lorem>Lorem i</lorem>
+  </string>
+  <string key='HOUSING'>
+    <!--English text: Housing:-->
+    <lorem>Lorem ip</lorem>
+  </string>
+  <string key='YOUR_POPULATION_GROWS_FASTER_WHEN_THERE_IS_MORE_AVAILABLE_HOUSING'>
+    <!--English text: Your population grows faster when there is more available housing-->
+    <lorem>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do e</lorem>
+  </string>
+  <string key='TUTSTORAGENOTE_TITLE'>
+    <!--English text: Low On Storage Space-->
+    <lorem>Lorem ipsum dolor si</lorem>
+  </string>
+  <string key='TUTSTORAGENOTE_MESSAGE'>
+    <!--English text: You are running low on storage space. You should consider building additional Silos to hold more goods.-->
+    <lorem>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et </lorem>
+  </string>
+  <string key='HOUSE'>
+    <!--English text: House-->
+    <lorem>Lorem</lorem>
+  </string>
+  <string key='OVERLAPS_HOUSE'>
+    <!--English text: Overlaps House-->
+    <lorem>Lorem ipsum do</lorem>
+  </string>
+  <string key='TOOLS_NEEDED'>
+    <!--English text: Tools Needed-->
+    <lorem>Lorem ipsum </lorem>
+  </string>
+  <string key='FOOD'>
+    <!--English text: FOOD-->
+    <lorem>Lore</lorem>
+  </string>
+  <string key='FARM'>
+    <!--English text: Farm-->
+    <lorem>Lore</lorem>
+  </string>
+  <string key='TUTLAUNCHPADNOTE_TITLE'>
+    <!--English text: Launch Pad Needed-->
+    <lorem>Lorem ipsum dolor</lorem>
+  </string>
+  <string key='TUTLAUNCHPADNOTE_MESSAGE'>
+    <!--English text:   There is a limited supply of coal and iron on the tiny planet you currently inhabit. Over time, these resources will be depleted. Your old spaceship may be too broken to continue exploring the galaxy, but with a Launch Pad you can construct new ships and colonize additional planets.
+  In the far reaches of space, you may even discover renewable sources of energy and raw materials.-->
+    <lorem>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, su</lorem>
+  </string>
+  <string key='CORE_TOOLTIP_AGRICULTURE_BUILDINGS'>
+    <!--English text: Agriculture Buildings-->
+    <lorem>Lorem ipsum dolor sit</lorem>
+  </string>
+  <string key='CORE_TOOLTIP_PLANETVIEW'>
+    <!--English text: Return To Planet View-->
+    <lorem>Lorem ipsum dolor sit</lorem>
+  </string>
+  <string key='TUNDRA'>
+    <!--English text: Tundra-->
+    <lorem>Lorem </lorem>
+  </string>
+  <string key='NULL'>
+    <!--English text: -->
+    <lorem></lorem>
+  </string>
+  <string key='MISSION_1_TITLE___CRASH_LANDING'>
+    <!--English text: Your ship has made a spectacular entrance onto this new world, and it doesn't look like it will be leaving again any time soon. Fortunately your colonists manage to eject before impact. Unfortunately, they're now scattered all over the planet.-->
+    <lorem>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute i</lorem>
+  </string>
+  <string key='MISSION_1_OBJECTIVE___RALLY_PEABS'>
+    <!--English text: Use the 'Rally' command to gather your Peabs near your downed ship.-->
+    <lorem>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiu</lorem>
+  </string>
+  <string key='MISSION_2_TITLE___SURVEY_PLANET'>
+    <!--English text: A proper survey of this new world is in order!-->
+    <lorem>Lorem ipsum dolor sit amet, consectetur adipis</lorem>
+  </string>
+  <string key='MISSION_2_OBJECTIVE___ROTATE'>
+    <!--English text: Click and drag to rotate your view around the planet.-->
+    <lorem>Lorem ipsum dolor sit amet, consectetur adipiscing el</lorem>
+  </string>
+  <string key='MISSION_2_OBJECTIVE___ZOOM'>
+    <!--English text: Use the +/- keys or the mouse wheel to zoom in and out.-->
+    <lorem>Lorem ipsum dolor sit amet, consectetur adipiscing elit</lorem>
+  </string>
+  <string key='MISSION_2_OBJECTIVE___SHIFT'>
+    <!--English text: Click and drag with the right mouse button to shift your view.-->
+    <lorem>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed d</lorem>
+  </string>
+  <string key='MISSION_2_OBJECTIVE___RECENTER'>
+    <!--English text: Click the 'Recenter Camera' button to return to a default view.-->
+    <lorem>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do</lorem>
+  </string>
+  <string key='CORE_TOOLTIP_CENTER_CAMERA'>
+    <!--English text: Center Camera-->
+    <lorem>Lorem ipsum d</lorem>
+  </string>
+  <string key='MISSION_3_TITLE___COLLECT_RESOURCES'>
+    <!--English text: Your wrecked ship has a bit of food and fuel, but not much else. Perhaps some basic necessities can be harvested from the nature?-->
+    <lorem>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut en</lorem>
+  </string>
+  <string key='MISSION_3_OBJECTIVE___WOOD'>
+    <!--English text: Use the 'Harvest Wood' command to chop down trees and collect lumber.-->
+    <lorem>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusm</lorem>
+  </string>
+  <string key='MISSION_3_OBJECTIVE___STONE'>
+    <!--English text: Better collect some Stone too, while you're at it.-->
+    <lorem>Lorem ipsum dolor sit amet, consectetur adipiscing</lorem>
+  </string>
+  <string key='MISSION_4_TITLE___BUILD_HOUSING'>
+    <!--English text: Let's use some of these new resources to build shelters, so we don't freeze to death in the winter.-->
+    <lorem>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore</lorem>
+  </string>
+  <string key='MISSION_4_OBJECTIVE___HOUSING'>
+    <!--English text: The command to build Houses is found here, under the Residential Buildings section. Build enough so that no one is homeless.-->
+    <lorem>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </lorem>
+  </string>
+  <string key='MISSION_5_TITLE___ESTABLISH_COLONY'>
+    <!--English text: Let's establish a proper colony by growing and building defenses.-->
+    <lorem>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do e</lorem>
+  </string>
+  <string key='MISSION_5_OBJECTIVE___FOOD'>
+    <!--English text: Use Farms and Boats to build up a store of 1000 food.-->
+    <lorem>Lorem ipsum dolor sit amet, consectetur adipiscing el</lorem>
+  </string>
+  <string key='MISSION_5_OBJECTIVE___POPULATION'>
+    <!--English text: Grow the population to include 30 Peabs. (The population will grow so long as there is excess housing.)-->
+    <lorem>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et </lorem>
+  </string>
+  <string key='MISSION_5_OBJECTIVE___DEFENSE'>
+    <!--English text: Build a Fort for defense.-->
+    <lorem>Lorem ipsum dolor sit ame</lorem>
+  </string>
+  <string key='NO_WORKERS'>
+    <!--English text: No Workers-->
+    <lorem>Lorem ipsu</lorem>
+  </string>
+  <string key='BOAT'>
+    <!--English text: Boat-->
+    <lorem>Lore</lorem>
+  </string>
+  <string key='GENERATING'>
+    <!--English text: Generating-->
+    <lorem>Lorem ipsu</lorem>
+  </string>
+  <string key='WORKERS_ASSIGNED_TO_THIS_TYPE_OF_BUILDING'>
+    <!--English text: Workers assigned to this type of building.-->
+    <lorem>Lorem ipsum dolor sit amet, consectetur ad</lorem>
+  </string>
+  <string key='ACTIVE'>
+    <!--English text: Active: -->
+    <lorem>Lorem ip</lorem>
+  </string>
+  <string key='FREE_WORKERS_ON_THIS_WORLD_'>
+    <!--English text: Free workers on this world: -->
+    <lorem>Lorem ipsum dolor sit amet, </lorem>
+  </string>
+  <string key='POPULATION_'>
+    <!--English text: Population: -->
+    <lorem>Lorem ipsum </lorem>
+  </string>
+  <string key='WORKSHOP'>
+    <!--English text: Workshop-->
+    <lorem>Lorem ip</lorem>
+  </string>
+  <string key='TOOLTIP_FOR_FORT'>
+    <!--English text: Fort -  Automatically attacks nearby invaders.-->
+    <lorem>Lorem ipsum dolor sit amet, consectetur adipis</lorem>
+  </string>
+  <string key='FORT'>
+    <!--English text: Fort-->
+    <lorem>Lore</lorem>
+  </string>
+  <string key='STORAGE'>
+    <!--English text: Storage-->
+    <lorem>Lorem i</lorem>
+  </string>
+  <string key='THIS_YEAR'>
+    <!--English text: This Year:-->
+    <lorem>Lorem ipsu</lorem>
+  </string>
+  <string key='CONSUMED_BY_PEABS'>
+    <!--English text: Consumed by Peabs-->
+    <lorem>Lorem ipsum dolor</lorem>
+  </string>
+  <string key='TOO_CLOSE_TO_INDUSTRIAL_BUILDINGS'>
+    <!--English text: Too close to industrial buildings-->
+    <lorem>Lorem ipsum dolor sit amet, conse</lorem>
+  </string>
+  <string key='OVERLAPS_BOAT'>
+    <!--English text: Overlaps Boat-->
+    <lorem>Lorem ipsum d</lorem>
+  </string>
+  <string key='LAUNCH_PAD_NEEDED'>
+    <!--English text: Launch Pad Needed-->
+    <lorem>Lorem ipsum dolor</lorem>
+  </string>
+  <string key='CALENDAR'>
+    <!--English text: Calendar-->
+    <lorem>Lorem ip</lorem>
+  </string>
+  <string key='YEAR'>
+    <!--English text: Year-->
+    <lorem>Lore</lorem>
+  </string>
+  <string key='COMFORTABLE'>
+    <!--English text: Comfortable-->
+    <lorem>Lorem ipsum</lorem>
+  </string>
+  <string key='DOUBLE_CLICK_TO_VIEW'>
+    <!--English text: Double click to view-->
+    <lorem>Lorem ipsum dolor si</lorem>
+  </string>
+  <string key='MISSION_2___COMPLETION_TITLE'>
+    <!--English text: Planetary Survey Complete-->
+    <lorem>Lorem ipsum dolor sit ame</lorem>
+  </string>
+  <string key='MISSION_2___COMPLETION_TEXT'>
+    <!--English text:   I promise that, at some future date, there will be a cool reward for surveying the planet. For now though, you'll just have to settle for the thrill of victory.-->
+    <lorem>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud </lorem>
+  </string>
+  <string key='SIZE'>
+    <!--English text: Size: -->
+    <lorem>Lorem </lorem>
+  </string>
+  <string key='TILES'>
+    <!--English text: Tiles-->
+    <lorem>Lorem</lorem>
+  </string>
+  <string key='TOOLTIP_FOR_FOREST'>
+    <!--English text: Arbor -  Arbors grow trees and produce wood for your colony. Plan ahead, because it takes several years for a tree to be ready to harvest...-->
+    <lorem>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim</lorem>
+  </string>
+  <string key='PLANETARY_SURVEY_COMPLETE'>
+    <!--English text: Planetary Survey Complete-->
+    <lorem>Lorem ipsum dolor sit ame</lorem>
+  </string>
+  <string key='CLOUDS_ENABLED'>
+    <!--English text: Clouds Enabled:-->
+    <lorem>Lorem ipsum dol</lorem>
+  </string>
+  <string key='MUSIC_VOLUME'>
+    <!--English text: Music Volume:-->
+    <lorem>Lorem ipsum d</lorem>
+  </string>
+  <string key='SOUND_VOLUME'>
+    <!--English text: Sound Volume:-->
+    <lorem>Lorem ipsum d</lorem>
+  </string>
+  <string key='AUTO_SAVE'>
+    <!--English text: Auto-Save:-->
+    <lorem>Lorem ipsu</lorem>
+  </string>
+  <string key='ERROR'>
+    <!--English text: 11-->
+    <lorem>Lo</lorem>
+  </string>
+  <string key='GOOGLE_TRANSLATE_WARNING'>
+    <!--English text: This game isn't localized yet, but you can try using google-translate and see what happens:-->
+    <lorem>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt u</lorem>
+  </string>
+  <string key='CLICK_TO_CLOSE'>
+    <!--English text: Click To Close-->
+    <lorem>Lorem ipsum do</lorem>
+  </string>
+  <string key='VARIABLE'>
+    <!--English text: Variable-->
+    <lorem>Lorem ip</lorem>
+  </string>
+  <string key='TOOLTIP_FOR_QUARRY'>
+    <!--English text: Quarry -  Produces stone, a common resource for constructing buildings. Quarries are industrial buildings and must be far from Houses, Farms, and other domestic structures.-->
+    <lorem>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitati</lorem>
+  </string>
+  <string key='TILE'>
+    <!--English text: Tile-->
+    <lorem>Lore</lorem>
+  </string>
+  <string key='TOOLTIP_FOR_COAL_MINE'>
+    <!--English text: Coal Mine -  Produces coal, which can be used to generate energy or to create Steel. Coal mines are industrial buildings and must be far from Houses, Farms, and other domestic structures.-->
+    <lorem>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco labo</lorem>
+  </string>
+  <string key='TOOLTIP_FOR_IRON_MINE'>
+    <!--English text: Iron Mine -  Produces iron, a necessary resource for more advanced buildings. Iron mines are industrial buildings and must be far from Houses, Farms, and other domestic structures.-->
+    <lorem>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullam</lorem>
+  </string>
+  <string key='REQ_POPULATION'>
+    <!--English text: Req Galactic Population: -->
+    <lorem>Lorem ipsum dolor sit ame</lorem>
+  </string>
+  <string key='CORE_TOOLTIP_EVENT_LOG'>
+    <!--English text: Core Tooltip Event Log-->
+    <lorem>Lorem ipsum dolor sit </lorem>
+  </string>
+  <string key='TOOLTIP_FOR_ARMORY'>
+    <!--English text: Armory -  Produces weapons, which improve the combat efficiency of your Peabs.-->
+    <lorem>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</lorem>
+  </string>
+  <string key='WORLD_NAME'>
+    <!--English text: World Name:-->
+    <lorem>Lorem ipsum</lorem>
+  </string>
+  <string key='START_SEASON'>
+    <!--English text: Start Season:-->
+    <lorem>Lorem ipsum d</lorem>
+  </string>
+  <string key='SUPPLIES'>
+    <!--English text: Supplies:-->
+    <lorem>Lorem ips</lorem>
+  </string>
+  <string key='SETTLERS'>
+    <!--English text: Settlers:-->
+    <lorem>Lorem ips</lorem>
+  </string>
+  <string key='MONSTERS'>
+    <!--English text: Monsters:-->
+    <lorem>Lorem ips</lorem>
+  </string>
+  <string key='UNIVERSE'>
+    <!--English text: Universe:-->
+    <lorem>Lorem ips</lorem>
+  </string>
+  <string key='SEED'>
+    <!--English text: Seed:-->
+    <lorem>Lorem</lorem>
+  </string>
+  <string key='NEW_GAME_EXPLAIN_SPRING'>
+    <!--English text: Start with plenty of time to prepare for Winter.-->
+    <lorem>Lorem ipsum dolor sit amet, consectetur adipisci</lorem>
+  </string>
+  <string key='NEW_GAME_EXPLAIN_SUPPLIES_1'>
+    <!--English text: Start the game with food to last a few seasons.-->
+    <lorem>Lorem ipsum dolor sit amet, consectetur adipisc</lorem>
+  </string>
+  <string key='NEW_GAME_EXPLAIN_COLONISTS_1'>
+    <!--English text: Start the game with several colonists.-->
+    <lorem>Lorem ipsum dolor sit amet, consectetu</lorem>
+  </string>
+  <string key='NEW_GAME_EXPLAIN_MONSTERS_2'>
+    <!--English text: The galaxy is dangerous, be prepared.-->
+    <lorem>Lorem ipsum dolor sit amet, consectet</lorem>
+  </string>
+  <string key='NEW_GAME_EXPLAIN_UNIVERSE_1'>
+    <!--English text: Many planets exist for you to explore.-->
+    <lorem>Lorem ipsum dolor sit amet, consectetu</lorem>
+  </string>
+  <string key='NEW_GAME_EXPLAIN_SUMMER'>
+    <!--English text: Start with some time still to prepare for Winter.-->
+    <lorem>Lorem ipsum dolor sit amet, consectetur adipiscin</lorem>
+  </string>
+  <string key='NEW_GAME_EXPLAIN_FALL'>
+    <!--English text: Start in Fall, with little time to prepare for Winter.-->
+    <lorem>Lorem ipsum dolor sit amet, consectetur adipiscing eli</lorem>
+  </string>
+  <string key='NEW_GAME_EXPLAIN_WINTER'>
+    <!--English text: Start the game already freezing to death.-->
+    <lorem>Lorem ipsum dolor sit amet, consectetur a</lorem>
+  </string>
+  <string key='NEW_GAME_EXPLAIN_SUPPLIES_2'>
+    <!--English text: Start the game with an abundance of resources.-->
+    <lorem>Lorem ipsum dolor sit amet, consectetur adipis</lorem>
+  </string>
+  <string key='NEW_GAME_EXPLAIN_SUPPLIES_0'>
+    <!--English text: Start the game with little food.-->
+    <lorem>Lorem ipsum dolor sit amet, cons</lorem>
+  </string>
+  <string key='NEW_GAME_EXPLAIN_COLONISTS_2'>
+    <!--English text: Start the game with many colonists ready to work.-->
+    <lorem>Lorem ipsum dolor sit amet, consectetur adipiscin</lorem>
+  </string>
+  <string key='NEW_GAME_EXPLAIN_COLONISTS_0'>
+    <!--English text: Start the game with only a few colonists.-->
+    <lorem>Lorem ipsum dolor sit amet, consectetur a</lorem>
+  </string>
+  <string key='OVERWHELMING'>
+    <!--English text: Overwhelming-->
+    <lorem>Lorem ipsum </lorem>
+  </string>
+  <string key='NEW_GAME_EXPLAIN_MONSTERS_3'>
+    <!--English text: You face a near constant threat of extinction.-->
+    <lorem>Lorem ipsum dolor sit amet, consectetur adipis</lorem>
+  </string>
+  <string key='NEW_GAME_EXPLAIN_MONSTERS_0'>
+    <!--English text: Colonize a galaxy free of external threats.-->
+    <lorem>Lorem ipsum dolor sit amet, consectetur adi</lorem>
+  </string>
+  <string key='NEW_GAME_EXPLAIN_MONSTERS_1'>
+    <!--English text: Monsters may attack, but not in great numbers.-->
+    <lorem>Lorem ipsum dolor sit amet, consectetur adipis</lorem>
+  </string>
+  <string key='NEW_GAME_EXPLAIN_UNIVERSE_2'>
+    <!--English text: A sprawling galaxy lays before you.-->
+    <lorem>Lorem ipsum dolor sit amet, consect</lorem>
+  </string>
+  <string key='NEW_GAME_EXPLAIN_UNIVERSE_3'>
+    <!--English text: Explore to the limits of your ambition.-->
+    <lorem>Lorem ipsum dolor sit amet, consectetur</lorem>
+  </string>
+  <string key='NEW_GAME_EXPLAIN_UNIVERSE_0'>
+    <!--English text: Explore a galaxy that is easy to reach the edge of.-->
+    <lorem>Lorem ipsum dolor sit amet, consectetur adipiscing </lorem>
+  </string>
+  <string key='GAMEOVER_MESSAGE'>
+    <!--English text: The last of your Peabs have died, and with them your civilization. But this need not be the end! Future expeditions will be led to tame this hostile galaxy, and as they learn from the mistakes of their predecessors they will step boldly where before they faltered.-->
+    <lorem>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehe</lorem>
+  </string>
+  <string key='MISSION_9_TITLE___GROW_CIVILIZATION'>
+    <!--English text: Let's continue to grow our civilization.-->
+    <lorem>Lorem ipsum dolor sit amet, consectetur </lorem>
+  </string>
+  <string key='MISSION_9_OBJECTIVE___X_WORLDS'>
+    <!--English text: Colonize a total of 8 worlds.-->
+    <lorem>Lorem ipsum dolor sit amet, c</lorem>
+  </string>
+  <string key='MISSION_9_OBJECTIVE___X_POPULATION'>
+    <!--English text: Have a combined population of 250 across all worlds.-->
+    <lorem>Lorem ipsum dolor sit amet, consectetur adipiscing e</lorem>
+  </string>
+  <string key='MISSION_6_TITLE___EXPLORE_OTHER_WORLDS'>
+    <!--English text: Our civilization has grown to the point that we can once again explore the galaxy.-->
+    <lorem>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor inc</lorem>
+  </string>
+  <string key='MISSION_6_OBJECTIVE___LAUNCH_PAD'>
+    <!--English text: Construct a Launch Pad.-->
+    <lorem>Lorem ipsum dolor sit a</lorem>
+  </string>
+  <string key='MISSION_6_OBJECTIVE___COLONIZE'>
+    <!--English text: From the galactic map, launch a colonization mission and land on another world.-->
+    <lorem>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor </lorem>
+  </string>
+  <string key='MISSION_7_TITLE___GROW_CIVILIZATION'>
+    <!--English text: Let's continue to grow our civilization.-->
+    <lorem>Lorem ipsum dolor sit amet, consectetur </lorem>
+  </string>
+  <string key='MISSION_7_OBJECTIVE___X_WORLDS'>
+    <!--English text: Colonize a third planet.-->
+    <lorem>Lorem ipsum dolor sit am</lorem>
+  </string>
+  <string key='MISSION_7_OBJECTIVE___X_POPULATION'>
+    <!--English text: Reach a population of 75 across all worlds.-->
+    <lorem>Lorem ipsum dolor sit amet, consectetur adi</lorem>
+  </string>
+  <string key='MISSION_7_OBJECTIVE___TRADE'>
+    <!--English text: Start a regular trade route between two worlds.-->
+    <lorem>Lorem ipsum dolor sit amet, consectetur adipisc</lorem>
+  </string>
+  <string key='MISSION_8_TITLE___GROW_CIVILIZATION'>
+    <!--English text: Let's continue to grow our civilization.-->
+    <lorem>Lorem ipsum dolor sit amet, consectetur </lorem>
+  </string>
+  <string key='MISSION_8_OBJECTIVE___X_WORLDS'>
+    <!--English text: Colonize 5 worlds.-->
+    <lorem>Lorem ipsum dolor </lorem>
+  </string>
+  <string key='MISSION_8_OBJECTIVE___X_POPULATION'>
+    <!--English text: Have a combined population of 150 across all worlds.-->
+    <lorem>Lorem ipsum dolor sit amet, consectetur adipiscing e</lorem>
+  </string>
+  <string key='DO_YOU_REALLY_WANT_TO_QUIT'>
+    <!--English text: Do you really want to quit?-->
+    <lorem>Lorem ipsum dolor sit amet,</lorem>
+  </string>
+  <string key='OKAY'>
+    <!--English text: Okay-->
+    <lorem>Lore</lorem>
+  </string>
+  <string key='MISSION_5___COMPLETION_MESSAGE'>
+    <!--English text: Mission Complete - Our colony is growing and we should have an easier time defending ourselves now.-->
+    <lorem>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore</lorem>
+  </string>
+  <string key='MISSION_6___COMPLETION_MESSAGE'>
+    <!--English text: Mission Complete - Our colony has spread to another world!-->
+    <lorem>Lorem ipsum dolor sit amet, consectetur adipiscing elit, s</lorem>
+  </string>
+  <string key='MISSION_7___COMPLETION_MESSAGE'>
+    <!--English text: Mission Complete! Our civilization now extends across three planets.-->
+    <lorem>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eius</lorem>
+  </string>
+  <string key='MISSION_8___COMPLETION_MESSAGE'>
+    <!--English text: Mission Complete - Our civilization continues to grow!-->
+    <lorem>Lorem ipsum dolor sit amet, consectetur adipiscing eli</lorem>
+  </string>
+  <string key='MISSION_9___COMPLETION_MESSAGE'>
+    <!--English text: Under your careful management, this tiny colony has grown to become a proud, galaxy spanning civilization. There are currently no more missions, but you're free to continue playing, experimenting, and expanding. Congratulations!-->
+    <lorem>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequ</lorem>
+  </string>
+  <string key='MISSION_3___COMPLETION_MESSAGE'>
+    <!--English text: Mission Complete! We've acquired rudimentary building supplies, now we should think about how to begin building our new home.-->
+    <lorem>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. U</lorem>
+  </string>
+  <string key='MISSION_4___COMPLETION_MESSAGE'>
+    <!--English text: Mission Complete! We have enough housing for everyone. As we build more houses, our population will continue to grow to fill them.-->
+    <lorem>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut eni</lorem>
+  </string>
+  <string key='TOOLTIP_FOR_OBSERVATORY'>
+    <!--English text: Observatory -  Observatories allow you to watch the skies and predict when threats may arrive.-->
+    <lorem>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut l</lorem>
+  </string>
+  <string key='FOREST'>
+    <!--English text: Arbor-->
+    <lorem>Lorem</lorem>
+  </string>
+  <string key='IRON_MINE'>
+    <!--English text: Iron Mine-->
+    <lorem>Lorem ips</lorem>
+  </string>
+  <string key='COAL_MINE'>
+    <!--English text: Coal Mine-->
+    <lorem>Lorem ips</lorem>
+  </string>
+  <string key='QUARRY'>
+    <!--English text: Quarry-->
+    <lorem>Lorem </lorem>
+  </string>
+  <string key='FOUNDRY'>
+    <!--English text: Foundry-->
+    <lorem>Lorem i</lorem>
+  </string>
+  <string key='ARMORY'>
+    <!--English text: Armory-->
+    <lorem>Lorem </lorem>
+  </string>
+  <string key='DUMP'>
+    <!--English text: Dump-->
+    <lorem>Lore</lorem>
+  </string>
+  <string key='OFFICE'>
+    <!--English text: Office-->
+    <lorem>Lorem </lorem>
+  </string>
+  <string key='WINDMILL'>
+    <!--English text: Windmill-->
+    <lorem>Lorem ip</lorem>
+  </string>
+  <string key='SOLARCELL'>
+    <!--English text: SolarCell-->
+    <lorem>Lorem ips</lorem>
+  </string>
+  <string key='SCHOOL'>
+    <!--English text: School-->
+    <lorem>Lorem </lorem>
+  </string>
+  <string key='HOSPITAL'>
+    <!--English text: Hospital-->
+    <lorem>Lorem ip</lorem>
+  </string>
+  <string key='CORE_TOOLTIP_ROADS'>
+    <!--English text: Roads and Bridges-->
+    <lorem>Lorem ipsum dolor</lorem>
+  </string>
+  <string key='TOOLTIP_FOR_ROADSTONE'>
+    <!--English text: Stone Road - Stone roads are simple to build, and allow for faster movement.-->
+    <lorem>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod temp</lorem>
+  </string>
+  <string key='TOOLTIP_FOR_BRIDGESTONE'>
+    <!--English text: Stone Bridge - Stone bridges allow faster movement over water.-->
+    <lorem>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed d</lorem>
+  </string>
+  <string key='TOOLTIP_FOR_ROADSTEEL'>
+    <!--English text: Steel Road - Steel roads are somewhat expensive to build, but speed up movement considerably.-->
+    <lorem>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut </lorem>
+  </string>
+  <string key='TOOLTIP_FOR_BRIDGESTEEL'>
+    <!--English text: Steel Bridge - Steel bridges allow extra fast movement over water.-->
+    <lorem>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do ei</lorem>
+  </string>
+  <string key='MISSION_TO'>
+    <!--English text: Mission to:-->
+    <lorem>Lorem ipsum</lorem>
+  </string>
+  <string key='LAUNCH'>
+    <!--English text: Launch-->
+    <lorem>Lorem </lorem>
+  </string>
+  <string key='CHOOSE_RESOURCES_FOR_COLONIZATION_MISSION'>
+    <!--English text: Choose Resources For Colonization Mission-->
+    <lorem>Lorem ipsum dolor sit amet, consectetur a</lorem>
+  </string>
+  <string key='COLONISTS'>
+    <!--English text: Colonists-->
+    <lorem>Lorem ips</lorem>
+  </string>
+  <string key='COLONIZATION_MISSION'>
+    <!--English text: Colonization Mission-->
+    <lorem>Lorem ipsum dolor si</lorem>
+  </string>
+  <string key='ERR'>
+    <!--English text: Your Peabs have finished packing for a new colonization mission. You'll need to click on the ship and hit the 'Launch' button to tell them to start. You can do this at any time, but it might be a good idea to wait until early spring. That will give your new colonists the most time to settle in to their new home before inclimate weather hits.-->
+    <lorem>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteu</lorem>
+  </string>
+</localization>
